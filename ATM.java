@@ -10,7 +10,7 @@ import java.util.*;
 public class Main extends OptionMenu{
 
   public static void main(String[] args) throws IOException {
-    OptionMenu optionMenu= new OptionMenu();
+    OptionMenu optionMenu = new OptionMenu();
 
     optionMenu.getLogin();
   }
